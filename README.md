@@ -33,7 +33,7 @@ Alternatively you can use the IntelliJ Plugin:
 >[💿 JMH Java Microbenchmark Harness](https://plugins.jetbrains.com/plugin/7529-jmh-java-microbenchmark-harness)
 
 This allows starting tests like other JUnit tests:  
-![JMH Idea Screenshot](https://plugins.jetbrains.com/files/7529/screenshot_d07532df-46b5-4fc6-a963-0864bdd84876){width=800px}
+<img alt="JMH Idea Screenshot" src="https://plugins.jetbrains.com/files/7529/screenshot_d07532df-46b5-4fc6-a963-0864bdd84876" width="800">
 
 ## 📊 Benchmark Results
 
