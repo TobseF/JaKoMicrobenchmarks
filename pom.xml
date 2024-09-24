@@ -89,7 +89,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>6.1.6</version>
+            <version>6.1.12</version>
         </dependency>
         <dependency>
             <groupId>io.projectreactor.netty</groupId>
